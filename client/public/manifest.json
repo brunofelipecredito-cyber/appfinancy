@@ -1,6 +1,6 @@
 {
-  "name": "Finanças Pessoais",
-  "short_name": "Finanças",
+  "name": "Minha Carteira",
+  "short_name": "Carteira",
   "description": "Aplicativo de controle de comissionamento, bônus e gastos",
   "start_url": "/",
   "display": "standalone",
